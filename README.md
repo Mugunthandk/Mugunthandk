@@ -1,184 +1,246 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mugunthan%20DK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20B.Tech%20IT&descAlignY=55" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mugunthan DK</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • B.Tech IT Student
+B.Tech Information Technology Student • Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent applications that solve real-world problems.
-</p>
-
-<p align="center">
-<a href="https://github.com/Mugunthandk">
-<img src="https://komarev.com/ghpvc/?username=Mugunthandk&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-<a href="https://github.com/Mugunthandk?tab=followers">
-<img src="https://img.shields.io/github/followers/Mugunthandk?label=Followers&style=social" />
-</a>
-
-<img src="https://img.shields.io/github/stars/Mugunthandk?style=social" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems;Aspiring+Software+Engineer" />
 </p>
 
 ---
 
 # 💫 About Me
 
+I'm **Mugunthan DK**, a **B.Tech Information Technology** student passionate about **Software Development, Artificial Intelligence, and Full Stack Web Development**.
+
+I enjoy building modern web applications, AI-powered platforms, and solving real-world problems using technology.
+
+Currently, I'm focusing on strengthening my skills in **React, TypeScript, Node.js, MongoDB, Java, Python, Data Structures & Algorithms**, while building projects that enhance my software engineering journey.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Mugunthandk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
 🎓 B.Tech Information Technology Student
+
+🏫 V.S.B Engineering College, Karur
 
 💻 Passionate Full Stack Developer
 
 🤖 AI & Machine Learning Enthusiast
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - MERN Stack
 - Artificial Intelligence
 - Data Structures & Algorithms
-- Cloud Technologies
+- System Design
 
-🎯 Goal
+🎯 Career Goal
 
-Become a Software Engineer at a leading product-based company and build impactful AI-powered applications.
+Become a Software Engineer at a top Product-Based Company.
 
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+⚡ I love building AI-powered applications that solve real-world problems.
 
 ---
 
-### Frontend
+# 🛠 Tech Stack
 
-React
+## 💻 Programming Languages
 
-Vite
+<p>
 
-Tailwind CSS
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
 
-HTML5
-
-CSS3
+</p>
 
 ---
 
-### Backend
+## 🌐 Frontend
 
-Node.js
+<p>
 
-Express.js
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
 
-MongoDB
-
-REST APIs
+</p>
 
 ---
 
-### Tools
+## ⚙ Backend
 
-Git
+<p>
 
-GitHub
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
-VS Code
-
-Postman
-
-MongoDB Atlas
-
-Vercel
-
-Render
+</p>
 
 ---
 
-# 🌟 Featured Projects
+## 🤖 AI / ML
 
-### 🚀 CareerPilot AI
+- Machine Learning
+- Deep Learning
+- Scikit-learn
+- TensorFlow
+- OpenAI
+- Gemini API
 
-AI-powered placement preparation platform with
+---
 
-- Resume Analyzer
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 CareerPilot AI
+
+An AI-powered Placement Preparation Platform featuring:
+
+- Resume Builder
+- ATS Resume Analysis
 - AI Mock Interview
 - Coding Dashboard
 - Career Analytics
+- Modern Responsive UI
 
 🔗 Repository
 
 https://github.com/Mugunthandk/CareerPilot-AI
 
----
+🌐 Live Demo
 
-### 🌱 Smart Community Health Monitoring
-
-SIH Project
-
-IoT + AI + Analytics platform for monitoring water quality and early disease detection.
+https://career-pilot-ai-git-master-mugunthandks-projects.vercel.app/
 
 ---
 
-### 🤖 DK AI
+## 🤖 DK AI
 
 Personal AI Assistant with
 
 - Voice Commands
+- AI Chat
 - Automation
-- LLM Integration
 - Productivity Tools
 
 ---
 
-# 📈 GitHub Stats
+## 💧 Smart Community Health Monitoring System
+
+SIH Project using
+
+- AI
+- IoT
+- Dashboard Analytics
+- Disease Prediction
+- Water Quality Monitoring
+
+---
+
+# 📜 Certifications
+
+🏅 Oracle Java Foundations
+
+🏅 NPTEL Java Programming
+
+🏅 NPTEL Software Testing
+
+🏅 Infosys Springboard (Upcoming)
+
+---
+
+# 🎯 Current Goals
+
+✅ Master MERN Stack
+
+✅ Solve 500+ DSA Problems
+
+✅ Build AI SaaS Applications
+
+✅ Contribute to Open Source
+
+✅ Crack Product-Based Company Placements
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mugunthandk&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mugunthandk&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthandk&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthandk&layout=compact&theme=tokyonight"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mugunthandk&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Mugunthandk&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-GitHub
+<p align="center">
 
-https://github.com/Mugunthandk
+<img src="https://github-profile-trophy.vercel.app/?username=Mugunthandk&theme=tokyonight&row=1&column=7"/>
 
-Portfolio
-
-https://career-pilot-ai-git-master-mugunthandks-projects.vercel.app/
-
-Email
-
-your-email@example.com
+</p>
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> "Code with purpose. Learn continuously. Build solutions that make a difference."
+> **"Success comes from consistent learning, continuous building, and never giving up."**
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my GitHub profile!
+
+Let's build something amazing together 🚀
 
 </p>
