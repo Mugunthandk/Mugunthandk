@@ -1,31 +1,40 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mugunthan%20DK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20B.Tech%20IT&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Mugunthan%20DK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20B.Tech%20IT&descAlignY=58&descSize=22"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mugunthan DK</h1>
+<h1 align="center">Hi 👋 I'm Mugunthan DK</h1>
 
 <h3 align="center">
-B.Tech Information Technology Student • Full Stack Developer • AI Enthusiast
+🚀 AI Engineer • Full Stack Developer • MERN Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems;Aspiring+Software+Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+Developer;Generative+AI+%26+LLM+Developer;Always+Learning+Something+New;Open+Source+Contributor;Future+Software+Engineer"/>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm **Mugunthan DK**, a **B.Tech Information Technology** student passionate about **Software Development, Artificial Intelligence, and Full Stack Web Development**.
+I'm **Mugunthan DK**, a **B.Tech Information Technology** student passionate about building **AI-powered software** and **modern full-stack applications**.
 
-I enjoy building modern web applications, AI-powered platforms, and solving real-world problems using technology.
+I enjoy turning ideas into real-world products using **Java, Python, React, Node.js, MongoDB, LangChain, OpenAI APIs, and Machine Learning**.
 
-Currently, I'm focusing on strengthening my skills in **React, TypeScript, Node.js, MongoDB, Java, Python, Data Structures & Algorithms**, while building projects that enhance my software engineering journey.
+Currently I'm expanding my expertise in:
+
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- ☁ Cloud Computing
+- ⚡ Software Engineering
+
+I love building products that solve practical problems while continuously improving my technical skills.
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -33,16 +42,20 @@ Currently, I'm focusing on strengthening my skills in **React, TypeScript, Node.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mugunthandk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="YOUR_LEETCODE">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://career-pilot-ai-git-master-mugunthandks-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -51,32 +64,27 @@ Currently, I'm focusing on strengthening my skills in **React, TypeScript, Node.
 
 # 🚀 About Me
 
-🎓 B.Tech Information Technology Student
+🎓 B.Tech Information Technology
 
-🏫 V.S.B Engineering College, Karur
+🏫 VSB Engineering College
 
-💻 Passionate Full Stack Developer
+📍 Karur, Tamil Nadu
 
 🤖 AI & Machine Learning Enthusiast
 
-🌱 Currently Learning
+💻 MERN Stack Developer
 
-- MERN Stack
-- Artificial Intelligence
-- Data Structures & Algorithms
-- System Design
+📊 Data Analytics Enthusiast
 
-🎯 Career Goal
+🧠 Generative AI Explorer
 
-Become a Software Engineer at a top Product-Based Company.
-
-⚡ I love building AI-powered applications that solve real-world problems.
+🎯 Future Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Programming Languages
+## Languages
 
 <p>
 
@@ -86,17 +94,17 @@ Become a Software Engineer at a top Product-Based Company.
 
 ---
 
-## 🌐 Frontend
+## Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
 
 </p>
 
 ---
 
-## ⚙ Backend
+## Backend
 
 <p>
 
@@ -106,22 +114,33 @@ Become a Software Engineer at a top Product-Based Company.
 
 ---
 
-## 🤖 AI / ML
-
-- Machine Learning
-- Deep Learning
-- Scikit-learn
-- TensorFlow
-- OpenAI
-- Gemini API
-
----
-
-## 🛠 Tools
+## AI / ML
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+LangChain
+
+OpenAI API
+
+FAISS
+
+Scikit-Learn
+
+Pandas
+
+Power BI
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
 
 </p>
 
@@ -129,16 +148,19 @@ Become a Software Engineer at a top Product-Based Company.
 
 # 🚀 Featured Projects
 
-## 🎯 CareerPilot AI
+## 🚀 CareerPilot AI
 
-An AI-powered Placement Preparation Platform featuring:
+AI-powered Career Development Platform
 
-- Resume Builder
-- ATS Resume Analysis
-- AI Mock Interview
-- Coding Dashboard
-- Career Analytics
-- Modern Responsive UI
+✔ Resume Builder
+
+✔ ATS Resume Analysis
+
+✔ AI Mock Interview
+
+✔ Coding Dashboard
+
+✔ Career Analytics
 
 🔗 Repository
 
@@ -150,56 +172,120 @@ https://career-pilot-ai-git-master-mugunthandks-projects.vercel.app/
 
 ---
 
-## 🤖 DK AI
+## 🤖 RAG Document Assistant
 
-Personal AI Assistant with
+Retrieval-Augmented Generation system using
+
+- LangChain
+- OpenAI
+- FAISS
+- Streamlit
+
+Enables intelligent document search with context-aware responses.
+
+---
+
+## 💼 Job & Internship Tracker
+
+Full Stack MERN Application
+
+- JWT Authentication
+- Dashboard Analytics
+- CRUD Operations
+- MongoDB
+- React
+- Express
+
+---
+
+## 📊 Retail Sales Analytics Dashboard
+
+Built using
+
+- Python
+- Pandas
+- Power BI
+
+Provides business insights through interactive dashboards.
+
+---
+
+## 🤖 DK AI Assistant
+
+Desktop AI Assistant
 
 - Voice Commands
 - AI Chat
 - Automation
-- Productivity Tools
+- Productivity
 
 ---
 
-## 💧 Smart Community Health Monitoring System
+# 💼 Experience
 
-SIH Project using
+## 🌐 Web Development Intern
 
-- AI
-- IoT
-- Dashboard Analytics
-- Disease Prediction
-- Water Quality Monitoring
+EtherInfoTech Learning Centre
+
+Developed responsive web applications and improved website performance.
+
+---
+
+## 📊 Data Analytics Intern
+
+Pantech Solutions
+
+Worked on Python, Pandas, Data Cleaning and Analytics.
+
+---
+
+## ☕ Java Development Intern
+
+Infosys Springboard
+
+Worked on Java Programming, OOP, Data Structures and Application Logic.
 
 ---
 
 # 📜 Certifications
 
-🏅 Oracle Java Foundations
+🏆 Oracle Generative AI Professional Certificate
 
-🏅 NPTEL Java Programming
+🏆 Programming in Java — Infosys Springboard
 
-🏅 NPTEL Software Testing
+🏆 Naukri Campus Certificate of Merit
 
-🏅 Infosys Springboard (Upcoming)
+🏆 IIT Gwalior Project Achievement
+
+---
+
+# 🏆 Achievements
+
+⭐ Solved 200+ LeetCode Problems
+
+⭐ Built Multiple AI & Full Stack Applications
+
+⭐ Hands-on Experience with LLM Applications
+
+⭐ AI, MERN & Data Analytics Projects
 
 ---
 
 # 🎯 Current Goals
 
-✅ Master MERN Stack
+🚀 Master AI Engineering
 
-✅ Solve 500+ DSA Problems
+🚀 Solve 500+ DSA Problems
 
-✅ Build AI SaaS Applications
+🚀 Become an Open Source Contributor
 
-✅ Contribute to Open Source
+🚀 Build AI SaaS Products
 
-✅ Crack Product-Based Company Placements
+🚀 Secure a Software Engineering Role
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -231,16 +317,28 @@ SIH Project using
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugunthandk&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 💬 Quote
 
-> **"Success comes from consistent learning, continuous building, and never giving up."**
+> **"Great software isn't built overnight. It's built through consistent learning, continuous improvement, and the courage to solve real-world problems."**
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub Profile!
 
-Let's build something amazing together 🚀
+If you like my work, consider following me and checking out my projects.
+
+🚀 Happy Coding!
 
 </p>
