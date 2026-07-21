@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', monospace">
+  <defs>
+    <linearGradient id="redbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a0a0a"/>
+      <stop offset="55%" stop-color="#7a1414"/>
+      <stop offset="100%" stop-color="#a11d1d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd54a"/>
+      <stop offset="100%" stop-color="#ffd54a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="4" y="4" width="992" height="412" rx="14" fill="url(#redbg)" stroke="#ffd54a" stroke-width="2"/>
+
+  <!-- corner brackets -->
+  <path d="M 30 40 L 30 20 L 50 20" fill="none" stroke="#ffd54a" stroke-width="3"/>
+  <path d="M 970 380 L 970 400 L 950 400" fill="none" stroke="#ffd54a" stroke-width="3"/>
+
+  <text x="55" y="70" fill="#ffd54a" font-size="20" font-weight="700">mugunthan@dev-machine:~$ cat about_me.txt</text>
+
+  <g font-size="17" fill="#ffe37a">
+    <text x="55" y="125"><tspan fill="#ffd54a" font-weight="700">name: </tspan>Mugunthan</text>
+    <text x="55" y="160"><tspan fill="#ffd54a" font-weight="700">role: </tspan>Final-Year IT Student &amp; Full Stack Developer</text>
+    <text x="55" y="195"><tspan fill="#ffd54a" font-weight="700">based_in: </tspan>Karur, Tamil Nadu, India</text>
+    <text x="55" y="230"><tspan fill="#ffd54a" font-weight="700">focus: </tspan>[Full Stack Web Dev, AI/ML Engineering, Data Analytics]</text>
+    <text x="55" y="265"><tspan fill="#ffd54a" font-weight="700">stack: </tspan>[React, Node.js, FastAPI, LangChain, FAISS, MongoDB]</text>
+    <text x="55" y="300"><tspan fill="#ffd54a" font-weight="700">side_projects: </tspan>200+ LeetCode problems, Tanglish screenplay "Last Seen"</text>
+    <text x="55" y="335"><tspan fill="#ffd54a" font-weight="700">currently_building: </tspan>SUBASH AI — personal AI agent platform</text>
+    <text x="55" y="370"><tspan fill="#ffd54a" font-weight="700">open_to: </tspan>Full Stack / AI-ML / Data Analytics internships</text>
+  </g>
+
+  <!-- radar dial decoration -->
+  <circle cx="900" cy="220" r="70" fill="url(#glow)" opacity="0.5"/>
+  <circle cx="900" cy="220" r="55" fill="none" stroke="#ffd54a" stroke-width="2"/>
+  <circle cx="900" cy="220" r="38" fill="none" stroke="#ffd54a" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 900 220 L 925 190" stroke="#ffd54a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="900" cy="220" r="6" fill="#ffd54a"/>
+</svg>

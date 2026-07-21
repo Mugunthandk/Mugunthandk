@@ -1,0 +1,49 @@
+<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', monospace">
+  <defs>
+    <linearGradient id="orangebg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a1206"/>
+      <stop offset="100%" stop-color="#4a1f0a"/>
+    </linearGradient>
+    <radialGradient id="dotglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb347" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffb347" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="4" y="4" width="992" height="292" rx="14" fill="url(#orangebg)" stroke="#e07a2f" stroke-width="2"/>
+
+  <!-- year labels boxes -->
+  <g font-size="15" font-weight="700" text-anchor="middle">
+    <rect x="60" y="30" width="230" height="60" rx="8" fill="#3a1a0d" stroke="#c9601f"/>
+    <text x="175" y="55" fill="#ffb347">2023 · EtherInfoTech</text>
+    <text x="175" y="75" fill="#ffdbb0" font-size="12" font-weight="400">Web Development Intern</text>
+
+    <rect x="385" y="30" width="230" height="60" rx="8" fill="#3a1a0d" stroke="#c9601f"/>
+    <text x="500" y="55" fill="#ffb347">2024 · Pantech Solutions</text>
+    <text x="500" y="75" fill="#ffdbb0" font-size="12" font-weight="400">Data Analytics Intern</text>
+
+    <rect x="710" y="30" width="230" height="60" rx="8" fill="#4a2410" stroke="#ffb347"/>
+    <text x="825" y="55" fill="#ffe8c9">2025 · Infosys Springboard</text>
+    <text x="825" y="75" fill="#ffdbb0" font-size="12" font-weight="400">Java Development Intern</text>
+  </g>
+
+  <!-- timeline line -->
+  <line x1="150" y1="200" x2="850" y2="200" stroke="#e07a2f" stroke-width="3"/>
+
+  <!-- connector ticks -->
+  <line x1="175" y1="120" x2="175" y2="200" stroke="#c9601f" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="500" y1="120" x2="500" y2="200" stroke="#c9601f" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="825" y1="120" x2="825" y2="200" stroke="#c9601f" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+  <!-- dots -->
+  <circle cx="175" cy="200" r="26" fill="url(#dotglow)"/>
+  <circle cx="175" cy="200" r="9" fill="#3a1a0d" stroke="#e07a2f" stroke-width="3"/>
+
+  <circle cx="500" cy="200" r="26" fill="url(#dotglow)"/>
+  <circle cx="500" cy="200" r="9" fill="#3a1a0d" stroke="#e07a2f" stroke-width="3"/>
+
+  <circle cx="825" cy="200" r="34" fill="url(#dotglow)"/>
+  <circle cx="825" cy="200" r="13" fill="#ffb347" stroke="#ffe8c9" stroke-width="3"/>
+
+  <text x="500" y="250" text-anchor="middle" fill="#8a5a3a" font-size="12">Earliest ← ————————————————————— → Most Recent</text>
+</svg>
