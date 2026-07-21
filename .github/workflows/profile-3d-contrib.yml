@@ -2,8 +2,11 @@ name: 3D Profile Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
+    - cron: "0 0 * * *" # runs daily at midnight UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
