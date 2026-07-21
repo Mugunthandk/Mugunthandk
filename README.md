@@ -1,175 +1,40 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%"> <h1>Hi, I'm Mugunthan 👋</h1> <h3>Final-Year IT Student · Full Stack Developer · AI/ML Enthusiast</h3> <a href="https://www.linkedin.com/in/mugunthan-dk"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:mugunthandk@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=6a4fea&label=PROFILE+VIEWS"> <br/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);AI%2FML+%E2%80%A2+LangChain+%E2%80%A2+FAISS+%E2%80%A2+FastAPI;Data+Analytics+%26+GenAI+Enthusiast;Building+SUBASH+AI+%E2%80%94+Personal+AI+Agent+Platform" alt="Typing SVG"> </a> </div> <br>
+🖥️ whoami
+<div align="center"> <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IidGaXJhIENvZGUnLCBtb25vc3BhY2UiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJyZWRiZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzYTBhMGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiM3YTE0MTQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYTExZDFkIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93IiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZkNTRhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZDU0YSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9Ijk5MiIgaGVpZ2h0PSI0MTIiIHJ4PSIxNCIgZmlsbD0idXJsKCNyZWRiZykiIHN0cm9rZT0iI2ZmZDU0YSIgc3Ryb2tlLXdpZHRoPSIyIi8+CgogIDwhLS0gY29ybmVyIGJyYWNrZXRzIC0tPgogIDxwYXRoIGQ9Ik0gMzAgNDAgTCAzMCAyMCBMIDUwIDIwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmQ1NGEiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwYXRoIGQ9Ik0gOTcwIDM4MCBMIDk3MCA0MDAgTCA5NTAgNDAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmQ1NGEiIHN0cm9rZS13aWR0aD0iMyIvPgoKICA8dGV4dCB4PSI1NSIgeT0iNzAiIGZpbGw9IiNmZmQ1NGEiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiPm11Z3VudGhhbkBkZXYtbWFjaGluZTp+JCBjYXQgYWJvdXRfbWUudHh0PC90ZXh0PgoKICA8ZyBmb250LXNpemU9IjE3IiBmaWxsPSIjZmZlMzdhIj4KICAgIDx0ZXh0IHg9IjU1IiB5PSIxMjUiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5uYW1lOiA8L3RzcGFuPk11Z3VudGhhbjwvdGV4dD4KICAgIDx0ZXh0IHg9IjU1IiB5PSIxNjAiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5yb2xlOiA8L3RzcGFuPkZpbmFsLVllYXIgSVQgU3R1ZGVudCAmYW1wOyBGdWxsIFN0YWNrIERldmVsb3BlcjwvdGV4dD4KICAgIDx0ZXh0IHg9IjU1IiB5PSIxOTUiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5iYXNlZF9pbjogPC90c3Bhbj5LYXJ1ciwgVGFtaWwgTmFkdSwgSW5kaWE8L3RleHQ+CiAgICA8dGV4dCB4PSI1NSIgeT0iMjMwIj48dHNwYW4gZmlsbD0iI2ZmZDU0YSIgZm9udC13ZWlnaHQ9IjcwMCI+Zm9jdXM6IDwvdHNwYW4+W0Z1bGwgU3RhY2sgV2ViIERldiwgQUkvTUwgRW5naW5lZXJpbmcsIERhdGEgQW5hbHl0aWNzXTwvdGV4dD4KICAgIDx0ZXh0IHg9IjU1IiB5PSIyNjUiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5zdGFjazogPC90c3Bhbj5bUmVhY3QsIE5vZGUuanMsIEZhc3RBUEksIExhbmdDaGFpbiwgRkFJU1MsIE1vbmdvREJdPC90ZXh0PgogICAgPHRleHQgeD0iNTUiIHk9IjMwMCI+PHRzcGFuIGZpbGw9IiNmZmQ1NGEiIGZvbnQtd2VpZ2h0PSI3MDAiPnNpZGVfcHJvamVjdHM6IDwvdHNwYW4+MjAwKyBMZWV0Q29kZSBwcm9ibGVtcywgVGFuZ2xpc2ggc2NyZWVucGxheSAiTGFzdCBTZWVuIjwvdGV4dD4KICAgIDx0ZXh0IHg9IjU1IiB5PSIzMzUiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5jdXJyZW50bHlfYnVpbGRpbmc6IDwvdHNwYW4+U1VCQVNIIEFJIOKAlCBwZXJzb25hbCBBSSBhZ2VudCBwbGF0Zm9ybTwvdGV4dD4KICAgIDx0ZXh0IHg9IjU1IiB5PSIzNzAiPjx0c3BhbiBmaWxsPSIjZmZkNTRhIiBmb250LXdlaWdodD0iNzAwIj5vcGVuX3RvOiA8L3RzcGFuPkZ1bGwgU3RhY2sgLyBBSS1NTCAvIERhdGEgQW5hbHl0aWNzIGludGVybnNoaXBzPC90ZXh0PgogIDwvZz4KCiAgPCEtLSByYWRhciBkaWFsIGRlY29yYXRpb24gLS0+CiAgPGNpcmNsZSBjeD0iOTAwIiBjeT0iMjIwIiByPSI3MCIgZmlsbD0idXJsKCNnbG93KSIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAwIiBjeT0iMjIwIiByPSI1NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZkNTRhIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8Y2lyY2xlIGN4PSI5MDAiIGN5PSIyMjAiIHI9IjM4IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmQ1NGEiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjYiLz4KICA8cGF0aCBkPSJNIDkwMCAyMjAgTCA5MjUgMTkwIiBzdHJva2U9IiNmZmQ1NGEiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGNpcmNsZSBjeD0iOTAwIiBjeT0iMjIwIiByPSI2IiBmaWxsPSIjZmZkNTRhIi8+Cjwvc3ZnPgo=" alt="whoami" width="100%"> </div> <br>
+🛠️ Tech Stack
+<div align="center"> <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IidGaXJhIENvZGUnLCBtb25vc3BhY2UiIGZvbnQtd2VpZ2h0PSI3MDAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuYXZ5YmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQwZjJiIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzE3MWE0NSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSI5OTIiIGhlaWdodD0iNTkyIiByeD0iMTQiIGZpbGw9InVybCgjbmF2eWJnKSIgc3Ryb2tlPSIjNGQ1YmNlIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBsaWdodG5pbmcgYm9sdCBkZWNvcmF0aW9uIC0tPgogIDxwYXRoIGQ9Ik0gOTMwIDYwIEwgOTA1IDExMCBMIDkyNSAxMTAgTCA5MDAgMTY1IEwgOTQwIDEwNSBMIDkxOCAxMDUgWiIgZmlsbD0iIzg5OTNlYSIgb3BhY2l0eT0iMC44NSIvPgoKICA8dGV4dCB4PSI1MDAiIHk9IjUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LXNpemU9IjIwIj5Gcm9udGVuZDwvdGV4dD4KICA8ZyBmb250LXNpemU9IjE1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIj4KICAgIDxyZWN0IHg9IjE1MCIgeT0iNjUiIHdpZHRoPSIxMTAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZTAyNDVlIi8+PHRleHQgeD0iMjA1IiB5PSI4OCI+UkVBQ1Q8L3RleHQ+CiAgICA8cmVjdCB4PSIyNzAiIHk9IjY1IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iIzMxNzhjNiIvPjx0ZXh0IHg9IjMzMCIgeT0iODgiPlRZUEVTQ1JJUFQ8L3RleHQ+CiAgICA8cmVjdCB4PSI0MDAiIHk9IjY1IiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSIjMzMzIi8+PHRleHQgeD0iNDY1IiB5PSI4OCI+TkVYVC5KUzwvdGV4dD4KICAgIDxyZWN0IHg9IjU0MCIgeT0iNjUiIHdpZHRoPSIxNDAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZjBkYjRmIi8+PHRleHQgeD0iNjEwIiB5PSI4OCIgZmlsbD0iIzExMSI+SkFWQVNDUklQVDwvdGV4dD4KICAgIDxyZWN0IHg9IjY5MCIgeT0iNjUiIHdpZHRoPSIxMDAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZTM0YzI2Ii8+PHRleHQgeD0iNzQwIiB5PSI4OCI+SFRNTDU8L3RleHQ+CiAgPC9nPgoKICA8dGV4dCB4PSI1MDAiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1zaXplPSIyMCI+QmFja2VuZDwvdGV4dD4KICA8ZyBmb250LXNpemU9IjE1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIj4KICAgIDxyZWN0IHg9IjIzMCIgeT0iMTY1IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iIzNjODczYSIvPjx0ZXh0IHg9IjI5MCIgeT0iMTg4Ij5OT0RFLkpTPC90ZXh0PgogICAgPHJlY3QgeD0iMzYwIiB5PSIxNjUiIHdpZHRoPSIxMzAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjMTExMTExIi8+PHRleHQgeD0iNDI1IiB5PSIxODgiPkVYUFJFU1M8L3RleHQ+CiAgICA8cmVjdCB4PSI1MDAiIHk9IjE2NSIgd2lkdGg9IjEzMCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiMwNTk4NjIiLz48dGV4dCB4PSI1NjUiIHk9IjE4OCI+RkFTVEFQSTwvdGV4dD4KICAgIDxyZWN0IHg9IjY0MCIgeT0iMTY1IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iI2Y3ZGYxZSIvPjx0ZXh0IHg9IjcwMCIgeT0iMTg4IiBmaWxsPSIjMTExIj5KQVZBPC90ZXh0PgogIDwvZz4KCiAgPHRleHQgeD0iNTAwIiB5PSIyNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtc2l6ZT0iMjAiPkRhdGFiYXNlPC90ZXh0PgogIDxnIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPgogICAgPHJlY3QgeD0iMzIwIiB5PSIyNjUiIHdpZHRoPSIxMzAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjNDQ3OWExIi8+PHRleHQgeD0iMzg1IiB5PSIyODgiPk1ZU1FMPC90ZXh0PgogICAgPHJlY3QgeD0iNDcwIiB5PSIyNjUiIHdpZHRoPSIxNTAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjNDdhMjQ4Ii8+PHRleHQgeD0iNTQ1IiB5PSIyODgiPk1PTkdPREI8L3RleHQ+CiAgPC9nPgoKICA8dGV4dCB4PSI1MDAiIHk9IjM1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1zaXplPSIyMCI+QUkgLyBNYWNoaW5lIExlYXJuaW5nPC90ZXh0PgogIDx0ZXh0IHg9Ijg1MCIgeT0iMzQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjODk5M2VhIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNDAwIj7CtyBmcm9tIFJBRyAmYW1wOyBTVUJBU0ggQUkgcHJvamVjdHM8L3RleHQ+CiAgPGcgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiI+CiAgICA8cmVjdCB4PSIxNTAiIHk9IjM2NSIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiM0MTI5OTEiLz48dGV4dCB4PSIyMjAiIHk9IjM4OCI+T1BFTkFJIEFQSTwvdGV4dD4KICAgIDxyZWN0IHg9IjMwMCIgeT0iMzY1IiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iIzdjNGRmZiIvPjx0ZXh0IHg9IjM2NSIgeT0iMzg4Ij5MQU5HQ0hBSU48L3RleHQ+CiAgICA8cmVjdCB4PSI0NDAiIHk9IjM2NSIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiMwMDk0ODUiLz48dGV4dCB4PSI0OTAiIHk9IjM4OCI+RkFJU1M8L3RleHQ+CiAgICA8cmVjdCB4PSI1NTAiIHk9IjM2NSIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiNmZjRiNGIiLz48dGV4dCB4PSI2MTAiIHk9IjM4OCI+U1RSRUFNTElUPC90ZXh0PgogICAgPHJlY3QgeD0iNjgwIiB5PSIzNjUiIHdpZHRoPSIxMjAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZTM0YzI2Ii8+PHRleHQgeD0iNzQwIiB5PSIzODgiPlBBTkRBUzwvdGV4dD4KICA8L2c+CgogIDx0ZXh0IHg9IjUwMCIgeT0iNDUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LXNpemU9IjIwIj5DbG91ZCAmYW1wOyBUb29sczwvdGV4dD4KICA8ZyBmb250LXNpemU9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIj4KICAgIDxyZWN0IHg9IjI2MCIgeT0iNDY1IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iI2YwNTAzMiIvPjx0ZXh0IHg9IjMxMCIgeT0iNDg4Ij5HSVQ8L3RleHQ+CiAgICA8cmVjdCB4PSIzNzAiIHk9IjQ2NSIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiMxODE3MTciLz48dGV4dCB4PSI0MzAiIHk9IjQ4OCI+R0lUSFVCPC90ZXh0PgogICAgPHJlY3QgeD0iNTAwIiB5PSI0NjUiIHdpZHRoPSIxMjAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjNDZlM2I3Ii8+PHRleHQgeD0iNTYwIiB5PSI0ODgiIGZpbGw9IiMxMTEiPlJFTkRFUjwvdGV4dD4KICAgIDxyZWN0IHg9IjYzMCIgeT0iNDY1IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSIjMzMzIi8+PHRleHQgeD0iNjkwIiB5PSI0ODgiPlZFUkNFTDwvdGV4dD4KICA8L2c+CgogIDx0ZXh0IHg9IjUwMCIgeT0iNTU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNTg2NWYyIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNDAwIj4yMDArIExlZXRDb2RlIHByb2JsZW1zIHNvbHZlZCAoSmF2YSkgwrcgT3JhY2xlIEdlbmVyYXRpdmUgQUkgUHJvZmVzc2lvbmFsIENlcnRpZmllZDwvdGV4dD4KPC9zdmc+Cg==" alt="tech stack" width="100%"> </div> <br>
+💼 Experience
+<div align="center"> <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IidGaXJhIENvZGUnLCBtb25vc3BhY2UiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJvcmFuZ2ViZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyYTEyMDYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNGExZjBhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJkb3RnbG93IiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZiMzQ3IiBzdG9wLW9wYWNpdHk9IjAuOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmIzNDciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSI5OTIiIGhlaWdodD0iMjkyIiByeD0iMTQiIGZpbGw9InVybCgjb3JhbmdlYmcpIiBzdHJva2U9IiNlMDdhMmYiIHN0cm9rZS13aWR0aD0iMiIvPgoKICA8IS0tIHllYXIgbGFiZWxzIGJveGVzIC0tPgogIDxnIGZvbnQtc2l6ZT0iMTUiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPgogICAgPHJlY3QgeD0iNjAiIHk9IjMwIiB3aWR0aD0iMjMwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iIzNhMWEwZCIgc3Ryb2tlPSIjYzk2MDFmIi8+CiAgICA8dGV4dCB4PSIxNzUiIHk9IjU1IiBmaWxsPSIjZmZiMzQ3Ij4yMDIzIMK3IEV0aGVySW5mb1RlY2g8L3RleHQ+CiAgICA8dGV4dCB4PSIxNzUiIHk9Ijc1IiBmaWxsPSIjZmZkYmIwIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNDAwIj5XZWIgRGV2ZWxvcG1lbnQgSW50ZXJuPC90ZXh0PgoKICAgIDxyZWN0IHg9IjM4NSIgeT0iMzAiIHdpZHRoPSIyMzAiIGhlaWdodD0iNjAiIHJ4PSI4IiBmaWxsPSIjM2ExYTBkIiBzdHJva2U9IiNjOTYwMWYiLz4KICAgIDx0ZXh0IHg9IjUwMCIgeT0iNTUiIGZpbGw9IiNmZmIzNDciPjIwMjQgwrcgUGFudGVjaCBTb2x1dGlvbnM8L3RleHQ+CiAgICA8dGV4dCB4PSI1MDAiIHk9Ijc1IiBmaWxsPSIjZmZkYmIwIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNDAwIj5EYXRhIEFuYWx5dGljcyBJbnRlcm48L3RleHQ+CgogICAgPHJlY3QgeD0iNzEwIiB5PSIzMCIgd2lkdGg9IjIzMCIgaGVpZ2h0PSI2MCIgcng9IjgiIGZpbGw9IiM0YTI0MTAiIHN0cm9rZT0iI2ZmYjM0NyIvPgogICAgPHRleHQgeD0iODI1IiB5PSI1NSIgZmlsbD0iI2ZmZThjOSI+MjAyNSDCtyBJbmZvc3lzIFNwcmluZ2JvYXJkPC90ZXh0PgogICAgPHRleHQgeD0iODI1IiB5PSI3NSIgZmlsbD0iI2ZmZGJiMCIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjQwMCI+SmF2YSBEZXZlbG9wbWVudCBJbnRlcm48L3RleHQ+CiAgPC9nPgoKICA8IS0tIHRpbWVsaW5lIGxpbmUgLS0+CiAgPGxpbmUgeDE9IjE1MCIgeTE9IjIwMCIgeDI9Ijg1MCIgeTI9IjIwMCIgc3Ryb2tlPSIjZTA3YTJmIiBzdHJva2Utd2lkdGg9IjMiLz4KCiAgPCEtLSBjb25uZWN0b3IgdGlja3MgLS0+CiAgPGxpbmUgeDE9IjE3NSIgeTE9IjEyMCIgeDI9IjE3NSIgeTI9IjIwMCIgc3Ryb2tlPSIjYzk2MDFmIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CiAgPGxpbmUgeDE9IjUwMCIgeTE9IjEyMCIgeDI9IjUwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjYzk2MDFmIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CiAgPGxpbmUgeDE9IjgyNSIgeTE9IjEyMCIgeDI9IjgyNSIgeTI9IjIwMCIgc3Ryb2tlPSIjYzk2MDFmIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogIDwhLS0gZG90cyAtLT4KICA8Y2lyY2xlIGN4PSIxNzUiIGN5PSIyMDAiIHI9IjI2IiBmaWxsPSJ1cmwoI2RvdGdsb3cpIi8+CiAgPGNpcmNsZSBjeD0iMTc1IiBjeT0iMjAwIiByPSI5IiBmaWxsPSIjM2ExYTBkIiBzdHJva2U9IiNlMDdhMmYiIHN0cm9rZS13aWR0aD0iMyIvPgoKICA8Y2lyY2xlIGN4PSI1MDAiIGN5PSIyMDAiIHI9IjI2IiBmaWxsPSJ1cmwoI2RvdGdsb3cpIi8+CiAgPGNpcmNsZSBjeD0iNTAwIiBjeT0iMjAwIiByPSI5IiBmaWxsPSIjM2ExYTBkIiBzdHJva2U9IiNlMDdhMmYiIHN0cm9rZS13aWR0aD0iMyIvPgoKICA8Y2lyY2xlIGN4PSI4MjUiIGN5PSIyMDAiIHI9IjM0IiBmaWxsPSJ1cmwoI2RvdGdsb3cpIi8+CiAgPGNpcmNsZSBjeD0iODI1IiBjeT0iMjAwIiByPSIxMyIgZmlsbD0iI2ZmYjM0NyIgc3Ryb2tlPSIjZmZlOGM5IiBzdHJva2Utd2lkdGg9IjMiLz4KCiAgPHRleHQgeD0iNTAwIiB5PSIyNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4YTVhM2EiIGZvbnQtc2l6ZT0iMTIiPkVhcmxpZXN0IOKGkCDigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQg4oaSIE1vc3QgUmVjZW50PC90ZXh0Pgo8L3N2Zz4K" alt="experience timeline" width="100%"> </div> <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
+🟡 Java Development Intern — Infosys Springboard
 
-<h1>Hi, I'm Mugunthan 👋</h1>
-<h3>Final-Year IT Student · Full Stack Developer · AI/ML Enthusiast</h3>
+Hands-on Java development internship building core Java applications and OOP-based solutions.
 
-<a href="https://www.linkedin.com/in/mugunthan-dk">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:mugunthandk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=6a4fea&label=PROFILE+VIEWS">
+Java OOP Core Development
 
-<br/>
+🔵 Data Analytics Intern — Pantech Solutions <sub>Worked on data cleaning, visualization, and reporting → Python Pandas Power BI</sub>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);AI%2FML+%E2%80%A2+LangChain+%E2%80%A2+FAISS+%E2%80%A2+FastAPI;Data+Analytics+%26+GenAI+Enthusiast;Building+SUBASH+AI+%E2%80%94+Personal+AI+Agent+Platform" alt="Typing SVG">
-</a>
+🔵 Web Development Intern — EtherInfoTech <sub>Built and maintained full stack web application features → HTML/CSS JavaScript Web Development</sub>
 
-</div>
+🎓 B.Tech Information Technology — VSB Engineering College, Karur, Tamil Nadu (CGPA 7.8, Expected 2027) 📜 Certified: Oracle Generative AI Professional · IIT Gwalior Project Certificate
 
 <br>
-
-## 🖥️ whoami
-
-- 🎓 Final-year **B.Tech Information Technology** student at **VSB Engineering College, Karur, Tamil Nadu** (CGPA 7.8, Graduating 2027)
-- 🔭 Currently building **SUBASH AI** — a large-scale personal AI agent platform (FastAPI backend + React dashboard, modular architecture)
-- 🌱 Actively seeking internships in **Full Stack Web Development, AI/ML Engineering & Data Analytics**
-- 💡 200+ problems solved on **LeetCode** (primarily Java)
-- ✍️ Side passion for creative writing — authored a Tanglish supernatural thriller screenplay, *Last Seen*
-- 📫 Reach me at **mugunthandk@gmail.com**
-
+🎨 Featured Projects
+		
+🤖 SUBASH AI	Large-scale personal AI agent platform with modular architecture	FastAPI React Python
+🌱 GreenFlow Smart Irrigation Manager	Smart irrigation management system, deployed on Render	React TypeScript Node.js
+📚 RAG AI Knowledge Assistant	Retrieval-augmented generation chatbot over custom knowledge base	LangChain FAISS OpenAI API Streamlit
+📋 Job/Internship Application Tracker	Full stack MERN app to track internship & job applications	MongoDB Express React Node.js JWT
+📊 Sales & Retail Performance Dashboard	Interactive analytics dashboard for sales/retail performance	Python Pandas Power BI
+🌐 Personal Portfolio	Dark-themed personal portfolio site with smooth animations	React Next.js Framer Motion
 <br>
+📊 GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true"/> </div> <br>
+🧊 3D Contribution Graph
+<div align="center"> <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"> </div> <br>
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg"> </picture> </div> <br> <div align="center">
 
-## 🛠️ Tech Stack
+📫 Reach me: mugunthandk@gmail.com · LinkedIn
 
-<div align="center">
-
-**Languages & Core**
-<br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-
-**Backend & APIs**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-
-**Data & Databases**
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-**Tools & Platforms**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
-</div>
-
-<br>
-
-## 💼 Experience
-
-<details open>
-<summary><b>🟡 Java Development Intern — Infosys Springboard</b></summary>
-<br>
-
-Hands-on Java development internship as part of the Infosys Springboard program.
-
-<code>Java</code> <code>OOP</code> <code>Core Development</code>
-</details>
-
-<details>
-<summary><b>🔵 Data Analytics Intern — Pantech Solutions</b></summary>
-<br>
-
-Worked on data analytics projects — data cleaning, visualization, and reporting.
-
-<code>Python</code> <code>Pandas</code> <code>Power BI</code> <code>Data Analytics</code>
-</details>
-
-<details>
-<summary><b>🔵 Web Development Intern — EtherInfoTech</b></summary>
-<br>
-
-Built and maintained web application features in a full stack environment.
-
-<code>HTML/CSS</code> <code>JavaScript</code> <code>Web Development</code>
-</details>
-
-**🎓 B.Tech Information Technology** — VSB Engineering College, Karur, Tamil Nadu (CGPA 7.8, Expected 2027)
-**📜 Certified:** Oracle Generative AI Professional · IIT Gwalior Project Certificate
-
-<br>
-
-## 🎨 Featured Projects
-
-| | | |
-|---|---|---|
-| 🤖 **SUBASH AI** | Large-scale personal AI agent platform with modular architecture | `FastAPI` `React` `Python` |
-| 🌱 **GreenFlow Smart Irrigation Manager** | Smart irrigation management system, deployed on Render | `React` `TypeScript` `Node.js` |
-| 📚 **RAG AI Knowledge Assistant** | Retrieval-augmented generation chatbot over custom knowledge base | `LangChain` `FAISS` `OpenAI API` `Streamlit` |
-| 📋 **Job/Internship Application Tracker** | Full stack MERN app to track internship & job applications | `MongoDB` `Express` `React` `Node.js` `JWT` |
-| 📊 **Sales & Retail Performance Dashboard** | Interactive analytics dashboard for sales/retail performance | `Python` `Pandas` `Power BI` |
-| 🌐 **Personal Portfolio** | Dark-themed personal portfolio site with smooth animations | `React` `Next.js` `Framer Motion` |
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>ℹ️ This snake animation needs a one-time GitHub Actions workflow set up in your profile repo (search "platane/snk" on GitHub for the workflow file).</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📫 **Reach me:** [mugunthandk@gmail.com](mailto:mugunthandk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mugunthan-dk)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%">
-
-</div>
+<br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%"> </div>
