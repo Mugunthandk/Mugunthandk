@@ -1,87 +1,274 @@
 <div align="center">
-👋 Hi, I'm Mugunthan DK
-🚀 AI Engineer • Full Stack Developer • Computer Vision • Edge AI
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Building+Real-World+AI+Projects;Open+Source+Contributor" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Mugunthan%20DK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"/>
+
+# Hi 👋, I'm Mugunthan DK
+
+### B.Tech Information Technology Student • AI Engineer • Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=🤖+AI+Engineer;💻+Full+Stack+Developer;👁️+Computer+Vision+Developer;⚡+Edge+AI+Enthusiast;🚀+Building+Real-World+AI+Projects;🌐+Open+Source+Contributor"/>
+
+I'm a **B.Tech Information Technology** student passionate about **Artificial Intelligence**, **Computer Vision**, **Edge AI**, and **Full Stack Development**. I enjoy building intelligent software that solves real-world problems and continuously learning new technologies.
+
 <p>
-<a href="https://github.com/Mugunthandk"><img src="https://img.shields.io/github/followers/Mugunthandk?style=for-the-badge&logo=github"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mugunthandk&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+
+<a href="https://github.com/Mugunthandk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mugunthan-dk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mugunthandk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Mugunthandk&style=for-the-badge&color=blue"/>
+
 </p>
+
 </div>
----
-🖥️ whoami
-```bash
-whoami
-```
-```text
-👨‍🎓 Mugunthan DK
-🏫 B.Tech Information Technology
-🎓 VSB Engineering College
 
-💻 AI • Full Stack • Computer Vision • Edge AI
+---
 
-🎯 Building practical AI applications that solve real-world problems.
-```
+# 🚀 About Me
+
+- 🎓 B.Tech Information Technology – V.S.B Engineering College
+- 🤖 AI & Computer Vision Enthusiast
+- 💻 Full Stack MERN Developer
+- ⚡ Learning Edge AI & LLM Applications
+- 🌍 Open Source Learner
+- 🚀 Passionate about solving real-world problems using AI
+- 🎯 Goal: AI Engineer at a Product-Based Company
+
 ---
-🛠️ Tech Stack
-Languages
-Python • Java • JavaScript • TypeScript
-Frontend
-React • Vite • Tailwind CSS • HTML • CSS
-Backend
-Node.js • Express • FastAPI
-AI / ML
-OpenCV • MediaPipe • TensorFlow • Ollama • Edge AI
-Database
-MongoDB • Firebase • MySQL
-Tools
-Git • GitHub • Docker • VS Code • Figma • Vercel
----
-🚀 Featured Projects
-Project	Description	Tech
-🚀 CareerPilot AI	AI-powered placement & career platform	React • TypeScript • AI
-✋ AirInk Edge AI	Gesture-based industrial control system	Python • OpenCV • MediaPipe
-🎨 AirDrawer	Draw in the air using hand tracking	React • Canvas • MediaPipe
-🤖 DK AI Assistant	Personal desktop AI assistant	Python • Ollama
-🚗 Vehicle Detection	Real-time vehicle detection	OpenCV • Python
----
-📊 GitHub Analytics
-<p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugunthandk&theme=tokyonight&hide_border=true"/>
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugunthandk&theme=tokyo-night&hide_border=true&area=true"/>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
 </p>
+
 ---
-🐍 Contribution Snake
-```text
-Enable GitHub Actions later to generate
-github-contribution-grid-snake.svg
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 CareerPilot AI
+
+AI-powered Career Development Platform
+
+- Resume Analyzer
+- AI Interview
+- Coding Tracker
+- Placement Dashboard
+
+**Tech**
+
+React • TypeScript • Node.js • MongoDB
+
+---
+
+## ✋ AirInk Edge AI
+
+Gesture-Based Industrial Control System
+
+- Hand Gesture Recognition
+- Air Writing
+- Edge AI
+- Smart Manufacturing
+
+**Tech**
+
+Python • OpenCV • MediaPipe
+
+---
+
+## 🎨 AirDrawer
+
+Real-time AI Air Drawing System
+
+- Hand Tracking
+- Canvas Drawing
+- Finger Detection
+
+---
+
+## 🤖 DK AI Assistant
+
+Personal AI Desktop Assistant
+
+- Voice Commands
+- Ollama Integration
+- Automation
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mugunthandk&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugunthandk&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthandk&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugunthandk&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+Replace:
+
 ```
----
-🧊 3D Contribution Graph
-```text
-Enable profile-3d-contrib GitHub Action
-to generate animated 3D contribution graph.
+YOUR_LEETCODE_USERNAME
 ```
+
+with your LeetCode username.
+
 ---
-🏆 Achievements
-🚀 Tata Technologies InnoVent Participant
-🤖 AI & Computer Vision Projects
-💻 Full Stack Development
-🌍 Open Source Learner
+
+# 🏆 Achievements
+
+- 💯 200+ Problems Solved
+- 🤖 AI Projects
+- 💻 Full Stack Projects
+- 🌍 Open Source Learner
+
 ---
-🎯 Currently Building
-AirInk Edge AI
-CareerPilot AI
-DK AI Assistant
-AI Dashboards
-Computer Vision Projects
+
+# 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- ⚡ Edge AI
+- 👁 Computer Vision
+- 🌐 Full Stack Development
+- 🧠 AI Agents
+
 ---
-📫 Connect With Me
-GitHub: https://github.com/Mugunthandk
-LinkedIn: https://www.linkedin.com/in/mugunthan-dk
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/Mugunthandk">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mugunthan-dk">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mugunthandk@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
 ---
+
 <div align="center">
-💙 "Build. Learn. Share. Repeat."
-⭐ If you like my projects, consider starring them!
+
+## 💬 Quote
+
+> **"Build AI that solves real-world problems."**
+
+⭐ Thanks for visiting my profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=12,20,24,30&height=120"/>
+
 </div>
