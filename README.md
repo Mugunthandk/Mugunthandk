@@ -66,31 +66,128 @@ Hands-on Java development internship building core Java applications and OOP-bas
 
 ## 🎨 Featured Projects
 
-| | | |
-|---|---|---|
-| 🤖 **SUBASH AI** | Large-scale personal AI agent platform with modular architecture | `FastAPI` `React` `Python` |
-| 🌱 **GreenFlow Smart Irrigation Manager** | Smart irrigation management system, deployed on Render | `React` `TypeScript` `Node.js` |
-| 📚 **RAG AI Knowledge Assistant** | Retrieval-augmented generation chatbot over custom knowledge base | `LangChain` `FAISS` `OpenAI API` `Streamlit` |
-| 📋 **Job/Internship Application Tracker** | Full stack MERN app to track internship & job applications | `MongoDB` `Express` `React` `Node.js` `JWT` |
-| 📊 **Sales & Retail Performance Dashboard** | Interactive analytics dashboard for sales/retail performance | `Python` `Pandas` `Power BI` |
-| 🌐 **Personal Portfolio** | Dark-themed personal portfolio site with smooth animations | `React` `Next.js` `Framer Motion` |
+|                                             |                                                                   |                                              |
+| ------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------- |
+| 🤖 **SUBASH AI**                            | Large-scale personal AI agent platform with modular architecture  | `FastAPI` `React` `Python`                   |
+| 🌱 **GreenFlow Smart Irrigation Manager**   | Smart irrigation management system, deployed on Render            | `React` `TypeScript` `Node.js`               |
+| 📚 **RAG AI Knowledge Assistant**           | Retrieval-augmented generation chatbot over custom knowledge base | `LangChain` `FAISS` `OpenAI API` `Streamlit` |
+| 📋 **Job/Internship Application Tracker**   | Full stack MERN app to track internship & job applications        | `MongoDB` `Express` `React` `Node.js` `JWT`  |
+| 📊 **Sales & Retail Performance Dashboard** | Interactive analytics dashboard for sales/retail performance      | `Python` `Pandas` `Power BI`                 |
+| 🌐 **Personal Portfolio**                   | Dark-themed personal portfolio site with smooth animations        | `React` `Next.js` `Framer Motion`            |
 
 <br>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mugunthandk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthandk&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugunthandk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthandk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Mugunthandk&theme=tokyonight"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugunthandk&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugunthandk&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mugunthandk&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugunthandk&theme=tokyo-night&hide_border=true&area=true"/>
+## 📈 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/Mugunthandk" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+<br>
+
+## 📋 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugunthandk&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mugunthandk&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mugunthandk&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mugunthandk&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mugunthandk&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<br>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+## 🎯 2026 Goals
+
+- 🚀 Build 20+ Production Ready Projects
+- 🤖 Master AI Agents & Generative AI
+- 🌍 Contribute to Open Source
+- 💼 Secure a Product-Based Software Role
+- ☁ Learn AWS & Cloud Architecture
+- 📱 Develop Cross-Platform Applications
+- 📊 Reach 1000+ GitHub Contributions
+- 🏆 Earn More Industry Certifications
+
+<br>
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🤝 Contribute
+
+💙 Follow my GitHub journey
 
 </div>
 
